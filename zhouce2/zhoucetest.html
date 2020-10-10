@@ -52,16 +52,12 @@
 
 
     $("#blue").click(function(){
-        // 先删除
-        $("div.div2").removeAttr("style");
         $("#bg").css("background-color","blue");
         $("#bg").text("蓝色背景");
     });
 
 
     $("#green").click(function(){
-        // 先删除之前的样式
-        $("div.div2").removeAttr("style");
         $("#bg").css({"background-color":"green","font-style":"italic","font-weight":"bold"});
         $("#bg").text("绿色背景");
     });

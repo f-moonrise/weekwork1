@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/birthdaydemo" />
+    <file type="web" url="file://$PROJECT_DIR$/chatrobot" />
+    <file type="web" url="file://$PROJECT_DIR$/game1" />
+    <file type="web" url="file://$PROJECT_DIR$/game2" />
+    <file type="web" url="file://$PROJECT_DIR$/game3" />
+    <file type="web" url="file://$PROJECT_DIR$/gamedemo" />
+    <file type="web" url="file://$PROJECT_DIR$/mavdemo" />
+    <file type="web" url="file://$PROJECT_DIR$/zhouce" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/game1/pom.xml" />
+        <option value="$PROJECT_DIR$/game2/pom.xml" />
+        <option value="$PROJECT_DIR$/zhouce/pom.xml" />
+        <option value="$PROJECT_DIR$/game3/pom.xml" />
+        <option value="$PROJECT_DIR$/mavdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/birthdaydemo/pom.xml" />
+        <option value="$PROJECT_DIR$/chatrobot/pom.xml" />
+        <option value="$PROJECT_DIR$/gamedemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

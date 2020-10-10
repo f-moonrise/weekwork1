@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e33096ff-ab9e-44a3-bf3c-73f420d603dd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/birthdaydemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/java/com/itdr/common/ResponseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/java/com/itdr/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/java/com/itdr/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/java/com/itdr/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/java/com/itdr/pojo/bo/UserRowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/java/com/itdr/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/java/com/itdr/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/resources/com/itdr/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/resources/com/itdr/dao/UsersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/test/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/WEB-INF/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/WEB-INF/cc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/WEB-INF/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/WEB-INF/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/WEB-INF/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/js/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdaydemo/src/main/webapp/static/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/chatrobot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/java/com/itdr/controller/CeShi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/java/com/itdr/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/java/com/itdr/mapper/IndexMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/java/com/itdr/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/java/com/itdr/pojo/RelyContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/java/com/itdr/service/IndexService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/java/com/itdr/service/IndexServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/java/com/itdr/utils/SqlSessionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/resources/com/itdr/mapper/IndexMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/chat.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/add_emoticons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn07.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn07g.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn09.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/btn11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/graybg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/page.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/page_be.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/talk_recordtext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/talk_recordtextme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/talk_send_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/thumbs/talk_recordbox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/images/thumbs/talk_recordboxme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/js/jquery-1.8.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatrobot/src/main/webapp/listdemo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game1/game1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game2/game2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game3/game3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/gamedemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/src/main/resources/com/itdr/mapper/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamedemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatorSqlmapCustom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeneratorSqlmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavdemo/mavdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavdemo/src/main/java/com/itdr/dao/UserfDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavdemo/src/main/java/com/itdr/dao/impl/UserfDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavdemo/src/main/java/com/itdr/utils/SqlSessionFactoryUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavdemo/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavdemo/src/main/resources/com/itdr/dao/UserfDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavdemo/src/main/resources/com/itdr/dao/UsersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhouce2/.idea/zhouce2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mavdemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavdemo/src/main/java/com/itdr/controller/BankController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavdemo/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../mavdemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhouce2/zhoucetest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../zhouce2/zhoucetest.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XneSriK2QHUX6c8L4SfqpMOPPJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.11.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\weekwork1\generatorSqlmapCustom\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GeneratorSqlmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeneratorSqlmap" />
+      <module name="generatorSqlmapCustom" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeneratorSqlmap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e33096ff-ab9e-44a3-bf3c-73f420d603dd" name="Default" comment="" />
+      <created>1554960267564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554960267564</updated>
+      <workItem from="1554960271847" duration="923000" />
+      <workItem from="1555645343425" duration="430000" />
+      <workItem from="1557878327045" duration="4111000" />
+      <workItem from="1558273525227" duration="672000" />
+      <workItem from="1558925885999" duration="599000" />
+      <workItem from="1566376900731" duration="619000" />
+      <workItem from="1566400565935" duration="2559000" />
+      <workItem from="1566441579554" duration="98000" />
+      <workItem from="1566808627440" duration="1428000" />
+      <workItem from="1566864549963" duration="17000" />
+      <workItem from="1567566477244" duration="780000" />
+      <workItem from="1567758743313" duration="330000" />
+      <workItem from="1573438050485" duration="457000" />
+      <workItem from="1581686290344" duration="1214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

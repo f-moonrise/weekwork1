@@ -39,11 +39,11 @@
                 <!-- Loging form -->
                 <form method="post" action="/name/login" >
                     <div class="form-group">
-                        <input name="username" type="username" class="form-control" id="exampleInputUsername"  placeholder="Username">
+                        <input type="text" name="username" type="username" class="form-control" id="exampleInputUsername"  placeholder="Username">
 
                     </div>
                     <div class="form-group">
-                        <input name="password" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                        <input type="password" name="password" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
                     </div>
 
                     <div class="form-check">

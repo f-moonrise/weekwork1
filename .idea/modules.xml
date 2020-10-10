@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/birthdaydemo/birthdaydemo.iml" filepath="$PROJECT_DIR$/birthdaydemo/birthdaydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatrobot/chatrobot.iml" filepath="$PROJECT_DIR$/chatrobot/chatrobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game1/game1.iml" filepath="$PROJECT_DIR$/game1/game1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game2/game2.iml" filepath="$PROJECT_DIR$/game2/game2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game3/game3.iml" filepath="$PROJECT_DIR$/game3/game3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamedemo/gamedemo.iml" filepath="$PROJECT_DIR$/gamedemo/gamedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavdemo/mavdemo.iml" filepath="$PROJECT_DIR$/mavdemo/mavdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhouce/zhouce.iml" filepath="$PROJECT_DIR$/zhouce/zhouce.iml" />
+    </modules>
+  </component>
+</project>

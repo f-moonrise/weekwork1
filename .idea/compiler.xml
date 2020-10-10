@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="game1" />
+        <module name="birthdaydemo" />
+        <module name="game3" />
+        <module name="game2" />
+        <module name="mavdemo" />
+        <module name="chatrobot" />
+        <module name="zhouce" />
+        <module name="gamedemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="birthdaydemo" target="1.8" />
+      <module name="chatrobot" target="1.8" />
+      <module name="game1" target="1.8" />
+      <module name="game2" target="1.8" />
+      <module name="game3" target="1.8" />
+      <module name="gamedemo" target="1.8" />
+      <module name="mavdemo" target="1.8" />
+      <module name="zhouce" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
